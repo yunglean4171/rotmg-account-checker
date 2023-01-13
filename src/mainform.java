@@ -86,6 +86,10 @@ public class mainform extends  JFrame{
                             BufferedWriter bw = new BufferedWriter(fw);
                             bw.write("____________________________");
                             bw.newLine();
+                            bw.write("Email: " + email);
+                            bw.newLine();
+                            bw.write("Password: "+password);
+                            bw.newLine();
                             bw.write("Name: "+name);
                             bw.newLine();
                             bw.write("Realm Gold: "+credits);

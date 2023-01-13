@@ -10,7 +10,8 @@ Simple & proxyless rotmg account checker
 
 ## Good accounts detail will be saved to goodaccounts.txt file:
 ![goodaccs](https://i.imgur.com/5frLiRv.png)
-Its my first project in java I chose this programming language because of its multiplatform since I play rotmg on macos. I will develop it eventually when I gain more knowledge
+
+It is my first project in java I chose this programming language because of its multiplatform since I play rotmg on macos. I will develop it eventually when I gain more knowledge
 ## Attention!
 combos.txt file create itself if not present in execurables directory, remember to put combo format as **EMAIL:PASSWORD**
 # Contributing

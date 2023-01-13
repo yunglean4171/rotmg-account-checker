@@ -13,6 +13,6 @@ Simple & proxyless rotmg account checker
 
 It is my first project in java I chose this programming language because of its multiplatform since I play rotmg on macos. I will develop it eventually when I gain more knowledge
 ## Attention!
-combos.txt file create itself if not present in execurables directory, remember to put combo format as **EMAIL:PASSWORD**
+combos.txt file create itself if not present in executables directory, remember to put combo format as **EMAIL:PASSWORD**
 # Contributing
 If you have some ideas that you want to suggest please make a [pull requests](https://github.com/yunglean4171/rotmg-account-checker/pulls) and if you found some bugs please make an [issue](https://github.com/yunglean4171/rotmg-account-checker/issues). Every contribution will be appreciated.

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="rotmg account checker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/rotmg_account_checker_jar</output-path>
+    <root id="archive" name="rotmg account checker.jar">
+      <element id="module-output" name="rotmg account checker" />
+    </root>
+  </artifact>
+</component>
